@@ -40,7 +40,7 @@ Spring batch가 있으나 batch는 batch Job에 중점을 둔 것 같다.
 
 quartz 스케줄러를 사용하여 DB 클러스터링도 가능하지만 학습중이다.
 
-참고 : [스케줄러 테스트](https://skout90.github.io/2017/07/07/Spring/scheduler/)
+참고 : [스케줄러 테스트](https://skout90.github.io/2017/07/07/Spring/scheduler/?target=_blank)
 
 ##  cron
 
