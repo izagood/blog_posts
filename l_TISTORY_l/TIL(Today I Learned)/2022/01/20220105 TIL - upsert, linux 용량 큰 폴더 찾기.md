@@ -5,11 +5,13 @@
 -   UPSERT : 중복되는 값이 있다면 update 없다면 insert 를 하는 명령어
 
 -   사용법
+
 ```sql
 INSERT INTO user_refresh_token (user_id, refresh_token)
 VALUES (#{userId}, #{refreshToken}) ON DUPLICATE KEY
 UPDATE refresh_token = #{refreshToken}
 ```
+
 -   참조 : [UPSERT](https://devlog-wjdrbs96.tistory.com/365)
 
 
@@ -18,6 +20,7 @@ UPDATE refresh_token = #{refreshToken}
     명령어만 다르고 동작은 동일하다.
 
 -   사용법
+
 ```sql
 MERGE INTO dest_table_name [alias]
             USING (source_table_name or  view or subquery) [alias]
