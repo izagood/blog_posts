@@ -20,6 +20,8 @@
 ##  Github contributions
 <p><img src="https://ghchart.rshah.org/izagood" /></p>
 
+-   [알고리즘 문제 풀이 기록](https://github.com/izagood/Algorithm_problem_log/blob/main/README.md)
+
 ##  Daily 루틴
 
 1.  알고리즘 1문제 풀이
