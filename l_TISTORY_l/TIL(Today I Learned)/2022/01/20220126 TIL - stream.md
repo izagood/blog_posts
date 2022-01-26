@@ -41,3 +41,4 @@ Effective Java의 공저자인 Angelika Langer가 JAX London 2015에서 발표�
 
 [Generic - 원천(raw)타입을 사용하지 맙시다.](https://ojava.tistory.com/27)
 [Java 제네릭 - Raw Type을 쓰면 안되는 이유](http://happinessoncode.com/2018/02/08/java-generic-raw-type/)
+
