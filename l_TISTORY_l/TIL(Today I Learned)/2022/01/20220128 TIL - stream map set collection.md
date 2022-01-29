@@ -24,6 +24,6 @@ Comparator를 원활하게 사용하기 위해 분석한다.
 
 Interface를 Override할때 단 하나의 함수만 존재하는 경우 람다 표현식을 사용할 수 있고 이것이 @FunctionalInterface이다.
 
-
+https://openjdk.java.net/jeps/11
 ### 참조
 [[JAVA] 람다식(Lambda)의 개념 및 사용법](https://khj93.tistory.com/entry/JAVA-%EB%9E%8C%EB%8B%A4%EC%8B%9DRambda%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95)
